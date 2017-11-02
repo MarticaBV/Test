@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hola
 Queremos cotilleo ;)
+=======
+Hola. Probando #2
+>>>>>>> 6e0e452f60d5617338ac9a2603e8999b71bc2607
